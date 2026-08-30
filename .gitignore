@@ -1,0 +1,8 @@
+dist/
+toolchain/
+original/
+*.dll
+*.zip
+*.msb.dcx
+*.sl2
+*.bak
